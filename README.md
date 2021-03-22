@@ -4,7 +4,7 @@
     - https://github.com/SOCI/soci
 
 
-### Package install & Build
+- Package install (vcpkg)
 ```sh
 $ vcpkg.exe install soci[odbc]:x64-windows-static
 ```
